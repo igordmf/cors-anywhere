@@ -28,7 +28,7 @@
     "server.js"
   ],
   "dependencies": {
-    "http-proxy": "1.11.1",
+    "http-proxy": "^1.18.1",
     "proxy-from-env": "0.0.1"
   },
   "devDependencies": {
@@ -38,6 +38,7 @@
     "lolex": "^1.5.0",
     "mocha": "^3.4.2",
     "nock": "^8.2.1",
+    "nodemon": "^2.0.12",
     "supertest": "^2.0.1"
   },
   "scripts": {
